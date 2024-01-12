@@ -115,3 +115,5 @@ Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab keine wirklic
 
 Was lief nicht gut in unserem Projekt?
 Wir konnten das Projekt ohne schwerwiegende Probleme abschliessen.
+
+Link zur Webanwendung: https://loreytox.github.io/LA-1302-Tic-Tac-Toe/
